@@ -40,9 +40,11 @@ Customer churn directly impacts revenue. This project aims to:
 1. First Visual:
    
 ![Alt text](Images/1.png)
+
 2. Second Visual:
 
 ![Alt text](Images/2.png)
+
 3. Third Visual:
 
 ![Alt text](Images/3.png)
