@@ -37,11 +37,14 @@ Customer churn directly impacts revenue. This project aims to:
 - Confusion matrices
 - Feature importance
 ## Below:
-1. First Visual
+1. First Visual:
+   
 ![Alt text](Images/1.png)
 2. Second Visual:
+
 ![Alt text](Images/2.png)
 3. Third Visual:
+
 ![Alt text](Images/3.png)
 ## Key Results
 The tuned model outperformed the baseline model across all evaluation metrics
