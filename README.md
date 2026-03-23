@@ -36,6 +36,8 @@ Customer churn directly impacts revenue. This project aims to:
 - ROC curves
 - Confusion matrices
 - Feature importance
+## Below:
+
 ## Key Results
 The tuned model outperformed the baseline model across all evaluation metrics
 Improved ability to correctly identify churn customers
@@ -48,4 +50,9 @@ Key Insights
 2. Retention Factors
 - Voice mail plan → strong indicator of loyalty
 - Active international usage → engaged customers
-- 
+## Business Recommendations
+1. Deploy Tuned Model to score all customers monthly
+2. Create Risk Segments based on churn probability
+3. Launch Retention Campaigns targeting top 100-150 at-risk customers
+
+
