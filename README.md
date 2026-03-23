@@ -36,19 +36,7 @@ Predicting customer churn using Logistic Regression with class imbalance handlin
 - Identifies 74% of actual churners
 - Standardized features, LBFGS solver
 - Selected for production deployment
-
-## Installation
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
-
-## Usage
-
-```bash
-jupyter notebook project2.ipynb
-```
-
+  
 Six chapters:
 1. Data exploration
 2. Preprocessing (encoding, scaling)
