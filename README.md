@@ -54,12 +54,12 @@ Improved ability to correctly identify churn customers
 Reduced classification errors
 Key Insights
 1. Churn Drivers
-- Frequent customer service calls → high dissatisfaction
-- High daytime usage → possible service/pricing issues
-- Lack of international plan → increased churn risk
+- Frequent customer service calls - high dissatisfaction
+- High daytime usage - possible service/pricing issues
+- Lack of international plan - increased churn risk
 2. Retention Factors
-- Voice mail plan → strong indicator of loyalty
-- Active international usage → engaged customers
+- Voice mail plan - strong indicator of loyalty
+- Active international usage - engaged customers
 ## Business Recommendations
 1. Deploy Tuned Model to score all customers monthly
 2. Create Risk Segments based on churn probability
